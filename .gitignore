@@ -2,3 +2,4 @@ askar/db.sqlite3
 askar/askar/__pycache__
 *.pyc
 *~
+*.swp
